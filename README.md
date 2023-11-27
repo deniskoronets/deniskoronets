@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm senior dev from Ukraine 🇺🇦. Open for offers! 
+I'm **Senior PHP/JS/NodeJs Developer** from Ukraine 🇺🇦. Open for offers! 
 
 **My stack/major tech expirience:**
 - php
