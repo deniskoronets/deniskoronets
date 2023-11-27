@@ -17,8 +17,8 @@ I'm senior dev from Ukraine 🇺🇦. Open for offers!
 - https://woo.zp.ua/
 
 **My cv:**
-https://docs.google.com/document/d/1f1YclavcPjzpYQ5b6KNa4cxx4o8q0pSszGa5Nciudvs/
-Expected hourly rate is 45$/h. Open for remote positions. Has a good feedback from my contractors 
+- https://docs.google.com/document/d/1f1YclavcPjzpYQ5b6KNa4cxx4o8q0pSszGa5Nciudvs/
+- Expected hourly rate is 45$/h. Open for remote positions. Has a good feedback from my contractors 
 
 **Contact me**
 - deniskoronets@woo.zp.ua
