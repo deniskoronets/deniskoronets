@@ -14,6 +14,7 @@ I'm senior dev from Ukraine 🇺🇦. Open for offers!
 - https://www.linkedin.com/in/denis-koronets-69084a59/
 - https://stackoverflow.com/users/1942398/deniskoronets
 - https://packagist.org/users/deniskoronets/
+- https://woo.zp.ua/
 
 **My cv:**
 https://docs.google.com/document/d/1f1YclavcPjzpYQ5b6KNa4cxx4o8q0pSszGa5Nciudvs/
