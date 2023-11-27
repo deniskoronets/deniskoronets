@@ -1,5 +1,4 @@
 ### Hi there 👋
-![image](https://github.com/deniskoronets/deniskoronets/assets/5627329/b9474720-e9d4-41be-9709-44f2c9c139dd)
 
 I'm senior dev from Ukraine 🇺🇦. Open for offers! 
 
