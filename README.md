@@ -24,3 +24,10 @@ I'm **Senior PHP/JS/NodeJs Developer** from Ukraine 🇺🇦. Open for offers!
 - deniskoronets@woo.zp.ua
 - <a href="skype:deniskoronets?chat">skype@deniskoronets</a>
 - https://t.me/dedekoko
+
+
+## My developed projects samples
+<a href="https://mobicard.com.ua/"><img src="https://mobicard.com.ua/favicon.svg" width="32"></a> 
+<a href="https://busyb.com.ua/"><img src="https://busyb.com.ua/favicon.svg" width="32"></a>
+<a href="https://woo.zp.ua/"><img src="https://woo.zp.ua/wp-content/uploads/2024/02/cropped-Woo-192x192.png" width="32"></a>
+<a href="https://pc-info.com.ua/"><img src="https://pc-info.com.ua/favicon.svg" width="32"></a>
