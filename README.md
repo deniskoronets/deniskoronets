@@ -18,7 +18,7 @@ I'm **Senior PHP/JS/NodeJs Developer** from Ukraine 🇺🇦. Open for offers!
 
 **My cv:**
 - https://docs.google.com/document/d/1f1YclavcPjzpYQ5b6KNa4cxx4o8q0pSszGa5Nciudvs/
-- Open for remote positions. Has a good feedback from my contractors 
+- Open for remote positions or EU work opportunities
 
 **Contact me**
 - deniskoronets@woo.zp.ua
