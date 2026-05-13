@@ -11,7 +11,7 @@ I'm **Senior PHP/JS/NodeJs Developer** from Ukraine 🇺🇦. Open for offers!
 - serverless
 
 **My socials/profiles:**
-- https://www.linkedin.com/in/denis-koronets-69084a59/
+- [https://www.linkedin.com/in/denis-koronets-69084a59/](https://www.linkedin.com/in/denys-koronets-69084a59/)
 - https://stackoverflow.com/users/1942398/deniskoronets
 - https://packagist.org/users/deniskoronets/
 - https://woo.zp.ua/
