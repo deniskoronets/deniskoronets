@@ -30,6 +30,3 @@ I'm **Senior PHP/JS/NodeJs Developer** from Ukraine 🇺🇦. Open for offers!
 <a href="https://busyb.com.ua/"><img src="https://busyb.com.ua/favicon.svg" width="32"></a>
 <a href="https://pc-info.com.ua/"><img src="https://pc-info.com.ua/favicon.svg" width="32"></a>
 <a href="https://linktrust.pro/"><img src="https://linktrust.pro/linktrust.svg" width="32"></a>
-
-<hr>
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj70fXWkc3VsqeQkFWNzaiNixGXF1qfcskjYhHvJ9Au_egitTGcStJj-3PTG-Y5iXUDOKM-fquEuXM/pubhtml">li</a>
