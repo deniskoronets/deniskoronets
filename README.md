@@ -20,16 +20,14 @@ I'm **Senior PHP/JS/NodeJs Developer** from Ukraine 🇺🇦. Open for offers!
 - https://docs.google.com/document/d/1f1YclavcPjzpYQ5b6KNa4cxx4o8q0pSszGa5Nciudvs/
 - Open for remote positions or EU work opportunities
 
-**Contact me**
-- deniskoronets@woo.zp.ua
-- <a href="skype:deniskoronets?chat">skype@deniskoronets</a>
-- https://t.me/dedekoko
+**My open source:**
+https://www.npmjs.com/package/li-grid - a vue3 based grid
+https://packagist.org/packages/dekor/php-array-table - php library to render ascii tables
 
 
 ## My developed projects samples
 <a href="https://mobicard.com.ua/"><img src="https://mobicard.com.ua/favicon.svg" width="32"></a> 
 <a href="https://busyb.com.ua/"><img src="https://busyb.com.ua/favicon.svg" width="32"></a>
-<a href="https://woo.zp.ua/"><img src="https://woo.zp.ua/wp-content/uploads/2024/02/cropped-Woo-192x192.png" width="32"></a>
 <a href="https://pc-info.com.ua/"><img src="https://pc-info.com.ua/favicon.svg" width="32"></a>
 <a href="https://linktrust.pro/"><img src="https://linktrust.pro/linktrust.svg" width="32"></a>
 
