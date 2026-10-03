@@ -23,6 +23,7 @@ I'm **Senior PHP/JS/NodeJs Developer** from Ukraine 🇺🇦. Open for offers!
 **My open source:**
 - https://www.npmjs.com/package/li-grid - a vue3 based grid
 - https://packagist.org/packages/dekor/php-array-table - php library to render ascii tables
+- https://packagist.org/packages/dekor/devio - docker-oriented dev interaction/deployment library
 
 
 ## My developed projects samples
