@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm **Senior PHP/JS/NodeJs Developer** from Ukraine 🇺🇦. Open for offers! 
+See my CV here: https://deniskoronets.com/ -- Open for remote positions or EU work opportunities! Both b2b contract and direct employment.
 
 **My stack/major tech expirience:**
 - php
@@ -15,10 +16,6 @@ I'm **Senior PHP/JS/NodeJs Developer** from Ukraine 🇺🇦. Open for offers!
 - https://stackoverflow.com/users/1942398/deniskoronets
 - https://packagist.org/users/deniskoronets/
 - https://woo.zp.ua/
-
-**My cv:**
-- https://docs.google.com/document/d/1f1YclavcPjzpYQ5b6KNa4cxx4o8q0pSszGa5Nciudvs/
-- Open for remote positions or EU work opportunities
 
 **My open source:**
 - https://www.npmjs.com/package/li-grid - a vue3 based grid
